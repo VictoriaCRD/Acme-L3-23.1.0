@@ -37,6 +37,11 @@ master.menu.administrator.shut-down = Shut down
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
 
+# master.menu.any ###################################################
+
+master.menu.any = Any
+master.menu.any.listPeeps = Peeps
+
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumer
@@ -55,9 +60,14 @@ master.menu.authenticated.bulletins = Bulletins
 master.menu.authenticated = Authenticated
 master.menu.authenticated.tutorials = All tutorials
 
-
 master.menu.bulletins = Boletines
-
+# master.menu.student #####################################
+master.menu.student = Student
+master.menu.student.favourite-link = Favourite link
+master.menu.student.list-courses= Courses List
+master.menu.student.list-enrolments = My enrolments
+master.menu.student.dashboard = My Dashboard
+>>>>>>> refs/remotes/origin/develop
 # master.menu.user-account ####################################################
 
 master.menu.user-account = Account
@@ -66,5 +76,13 @@ master.menu.user-account.provider = Provider data
 master.menu.user-account.become-provider = Become a provider
 master.menu.user-account.consumer = Consumer data
 master.menu.user-account.become-consumer = Become a consumer
+
+master.menu.user-account.update-company = Update Company data
+master.menu.user-account.create-company = Create your company
+master.menu.user-account.company = Company data
+
 master.menu.user-account.assistant = Assistant data
 master.menu.user-account.become-assistant = Become an assistant
+master.menu.user-account.student = Student data
+master.menu.user-account.become-student = Become an student
+

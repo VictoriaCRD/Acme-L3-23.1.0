@@ -1,15 +1,16 @@
 
 package acme.forms;
 
-import java.io.Serializable;
 import java.util.Map;
 
+import acme.entities.Statistic;
+import acme.framework.data.AbstractForm;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class CompanyDashboard implements Serializable {
+public class CompanyDashboard extends AbstractForm {
 
 	// Serialisation identifier -----------------------------------------------
 
@@ -17,7 +18,7 @@ public class CompanyDashboard implements Serializable {
 
 	// Attributes -------------------------------------------------------------
 
-	Map<String, Integer>		totalNomberOfPracticalGroupedByMoth;
+	Map<String, Integer>		totalNumberOfPracticalGroupedByMoth;
 
 	Double						averagePeriorPracticum;
 	Double						deviationPeriorOfPracticum;
@@ -27,4 +28,6 @@ public class CompanyDashboard implements Serializable {
 	Double						deviationPeriodOfSessions;
 	Double						miniumPeriodOfSessions;
 	Double						maximumPeriodOfSessions;
+	Statistic					statisticsPract;
+	Statistic					statisticsSess;
 }

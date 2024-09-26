@@ -1,0 +1,26 @@
+company.sessionPracticum.list.label.overview = Overview
+company.sessionPracticum.list.label.title = Title
+company.sessionPracticum.list.label.practicum.title = Practicum title
+
+company.sessionPracticum.list.label.addendum = Addendum
+
+company.sessionPracticum.list.button.createAddendum = Create Addendum
+company.sessionPracticum.list.button.create = Create Session
+
+company.sessionPracticum.list.button.create = Create
+
+company.sessionPracticum.form.label.title = Title
+company.sessionPracticum.form.label.overview = Overview
+company.sessionPracticum.form.label.moreInfo = More information
+company.sessionPracticum.form.label.startDate = Start date
+company.sessionPracticum.form.label.endDate = End date
+
+company.sessionPracticum.form.button.create = Create
+company.sessionPracticum.form.button.update = Update
+company.sessionPracticum.form.button.delete = Delete
+company.sessionPracticum.form.button.createAddendum = Create Addendum
+company.sessionPracticum.form.button.confirmation = Confirmation
+company.sessionPracticum.form.error.endAfterStart = The start date must be before the end
+company.sessionPracticum.form.error.oneWeekAhead = The start date must be at least one week before the current one
+company.sessionPracticum.form.error.confirmation = You must confirm the creation of the addendum
+company.sessionPracticum.form.error.oneWeekLong = Your period should last at least a week

@@ -1,0 +1,8 @@
+authenticated.practicum.list.label.title = Título
+authenticated.practicum.list.label.code = Código
+
+authenticated.practicum.form.label.title = Título
+authenticated.practicum.form.label.code = Código
+authenticated.practicum.form.label.overview = Resumen
+authenticated.practicum.form.label.company = Compañia
+authenticated.practicum.form.label.goals = Objetivos

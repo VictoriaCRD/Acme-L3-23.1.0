@@ -1,0 +1,17 @@
+company.practicum.list.label.code = Código
+company.practicum.list.label.title = Título
+company.practicum.list.button.create = Crear Practicum
+company.practicum.emptyPracticum = La práctica no puede estar vacía para ser publicada
+company.practicum.list.label.courseCode = Código del Curso
+
+company.practicum.form.label.code = Código
+company.practicum.form.label.title = Título
+company.practicum.form.label.goals = Objetivos
+company.practicum.form.label.estimatedTime = Tiempo Estimado
+company.practicum.form.button.create = Crear
+company.practicum.form.label.course = Curso
+company.practicum.form.label.overview = Resumen
+company.practicum.form.button.sessionPracticum = Sesiones
+company.practicum.form.button.update = Actualizar
+company.practicum.form.error.code = El código ya está en uso
+company.practicum.form.button.listSessionPracticum = Ver Sesiones

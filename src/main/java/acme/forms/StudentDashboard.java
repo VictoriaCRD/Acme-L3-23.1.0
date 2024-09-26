@@ -1,10 +1,6 @@
 
 package acme.forms;
 
-import java.util.Map;
-
-import acme.datatypes.Stats;
-import acme.entities.EnumType;
 import acme.framework.data.AbstractForm;
 import lombok.Getter;
 import lombok.Setter;
@@ -13,12 +9,24 @@ import lombok.Setter;
 @Setter
 public class StudentDashboard extends AbstractForm {
 
-	protected static final long			serialVersionUID	= 1L;
+	// Serialisation identifier -----------------------------------------------
 
-	protected Map<EnumType, Integer>	totalNumberOfActivities;
+	protected static final long	serialVersionUID	= 1L;
 
-	protected Stats						stadisticsOfTimePeriodFromActivies;
+	// Attributes -------------------------------------------------------------
 
-	protected Stats						stadisticsOfWorkingTimeFromEnrolmentstotalNumberOfHandsOnActivities;
+	int							numberOfTheoryActivites;
+	int							numberOfHandsOnActivites;
+	double						averagePeriodOfTheStudentActivities;
+	double						minimumPeriodOfTheStudentActivities;
+	double						maximumPeriodOfTheStudentActivities;
+	double						deviationOfThePeriodOfTheStudentActivities;
+	double						averageLearningTimeOfTheEnrolledCourses;
+	double						minimumLearningTimeOfTheEnrolledCourses;
+	double						maximumLearningTimeOfTheEnrolledCourses;
+	double						deviationLearningTimeOfTheEnrolledCourses;
 
+	// Derived attributes -----------------------------------------------------
+
+	// Relationships ----------------------------------------------------------
 }

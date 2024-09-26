@@ -35,6 +35,11 @@ master.menu.administrator.shut-down = Parar el sistema
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
 
+# master.menu.any ###################################################
+
+master.menu.any = Cualquiera
+master.menu.any.listPeeps = Peeps
+
 # master.menu.consumer ##########################################################
 
 master.menu.consumer = Consumidor
@@ -51,6 +56,23 @@ master.menu.authenticated = Autenticado
 master.menu.authenticated.tutorials = Todos los tutoriales
 
 
+
+# master.menu.assistant #######################################################
+master.menu.assistant = Asistente
+master.menu.assistant.favourite-link = Enlace favorito
+master.menu.assistant.tutorials.mine = Mis tutoriales
+
+master.menu.authenticated.bulletins = Boletines
+
+master.menu.authenticated = Autenticado
+master.menu.authenticated.tutorials = Todos los tutoriales
+# master.menu.student #####################################
+master.menu.student = Estudiante
+master.menu.student.favourite-link = Enlace  favorito
+master.menu.student.list-courses= Lista de cursos
+master.menu.student.list-enrolments = Mis inscripciones
+master.menu.student.dashboard = Mi panel
+
 # master.menu.user-account ####################################################
 
 master.menu.user-account = Cuenta
@@ -59,5 +81,13 @@ master.menu.user-account.provider = Datos de proveedor
 master.menu.user-account.become-provider = Hazte proveedor
 master.menu.user-account.consumer = Datos de consumidor
 master.menu.user-account.become-consumer = Hazte consumidor
+
+master.menu.user-account.update-company = Actualiza datos de empresa
+master.menu.user-account.create-company = Crea tu empresa
+master.menu.user-account.company = Datos de empresa
+
 master.menu.user-account.assistant = Datos de asistente
 master.menu.user-account.become-assistant = Hazte asistente
+master.menu.user-account.student = Datos de estudiante
+master.menu.user-account.become-student = Hazte estudiante
+

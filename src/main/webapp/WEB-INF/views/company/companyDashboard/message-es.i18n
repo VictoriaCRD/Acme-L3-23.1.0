@@ -1,0 +1,16 @@
+company.dashboard.title = Panel de Compañia
+
+company.dashboard.practicum = Prácticas
+
+company.dashboard.label.statisticsTimePracticum.average = Tiempo medio prácticas
+company.dashboard.label.statisticsTimePracticum.minimum = Tiempo minimo rácticas
+company.dashboard.label.statisticsTimePracticum.maximum = Tiempo máximo rácticas
+company.dashboard.label.statisticsTimePracticum.deviation = Tiempo desviación prácticas
+company.dashboard.label.statisticsTimeSession.average = Tiempo medio sesiones
+company.dashboard.label.statisticsTimeSession.maximum = Tiempo máximo sesiones
+company.dashboard.label.statisticsTimeSession.minimum = Tiempo minimo sesiones
+company.dashboard.label.statisticsTimeSession.deviation = Desviación sesiones
+
+company.dashboard.form.title.practicaNumberPerMonth = Número de Prácticas Por Mes
+
+company.dashboard.sessions = Sesiones

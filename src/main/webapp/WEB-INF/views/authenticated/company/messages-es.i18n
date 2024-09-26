@@ -1,0 +1,6 @@
+authenticated.company.form.label.name = Nombre
+authenticated.company.form.label.vat = Vat 
+authenticated.company.form.label.summary = Resumen
+authenticated.company.form.label.moreInfo = Más Info
+authenticated.company.form.button.create = Registrar
+authenticated.company.form.button.update = Actualizar

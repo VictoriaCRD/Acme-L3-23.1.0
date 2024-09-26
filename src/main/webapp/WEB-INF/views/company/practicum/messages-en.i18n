@@ -1,0 +1,17 @@
+company.practicum.list.label.code = Code
+company.practicum.list.label.title = Title
+company.practicum.list.button.create = Create Practicum
+company.practicum.emptyPracticum = The practicum cannot be empty to be published
+company.practicum.list.label.courseCode = Course code
+
+company.practicum.form.label.code = Code
+company.practicum.form.label.title = Title
+company.practicum.form.label.goals = Goals
+company.practicum.form.label.estimatedTime = Estimated time
+company.practicum.form.button.create = Create
+company.practicum.form.label.course = Course
+company.practicum.form.label.overview = Overview
+company.practicum.form.button.sessionPracticum = Sessions
+company.practicum.form.button.update = Update
+company.practicum.form.error.code = The code is already in use
+company.practicum.form.button.listSessionPracticum = See Sessions

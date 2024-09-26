@@ -1,0 +1,12 @@
+any.peep.form.label.startDate = Fecha publicación
+any.peep.form.label.title = Título
+any.peep.form.label.email = Email
+any.peep.form.label.nick = Mote
+any.peep.form.label.message = Mensaje
+any.peep.form.label.link = Link
+
+any.peep.list.title = Título
+any.peep.list.moment = Fecha de publicación
+any.peep.list.nick = Apodo
+
+any.peep.button.publish = Publicar

@@ -36,9 +36,13 @@ public class Enrolment extends AbstractEntity {
 	@Length(max = 100)
 	protected String			goals;
 
-	@ManyToOne(optional = false)
-	@Valid
-	protected Student			student;
+	@NotBlank
+	@Length(max = 100)
+	protected String			abstractm;
+
+	protected Boolean			notPublished;
+
+	protected double			estimatedTime;
 
 	// Derived attributes -----------------------------------------------------
 
@@ -48,5 +52,9 @@ public class Enrolment extends AbstractEntity {
 	@NotNull
 	@Valid
 	protected Course			course;
+
+	@ManyToOne(optional = false)
+	@Valid
+	protected Student			student;
 
 }

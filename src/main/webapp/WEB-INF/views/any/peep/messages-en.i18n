@@ -1,0 +1,12 @@
+any.peep.form.label.startDate = Publication date
+any.peep.form.label.title = Title
+any.peep.form.label.email = Email
+any.peep.form.label.nick = Nick
+any.peep.form.label.message = Message
+any.peep.form.label.link = Link
+
+any.peep.list.title = Title
+any.peep.list.startDate = Publication date
+any.peep.list.nick = Nick
+
+any.peep.button.publish = Post

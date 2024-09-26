@@ -1,0 +1,26 @@
+company.sessionPracticum.list.label.overview = Resumen
+company.sessionPracticum.list.label.title = Título
+company.sessionPracticum.list.label.practicum.title = Título de la Práctica
+
+company.sessionPracticum.list.label.addendum = Addendum
+
+company.sessionPracticum.list.button.createAddendum = Crear Addendum
+company.sessionPracticum.list.button.create = Crear Sesión
+
+company.sessionPracticum.list.button.create = Crear
+
+company.sessionPracticum.form.label.title = Título
+company.sessionPracticum.form.label.overview = Resumen
+company.sessionPracticum.form.label.moreInfo = Más Info
+company.sessionPracticum.form.label.startDate = Fecha Inicial
+company.sessionPracticum.form.label.endDate = Fecha Final
+
+company.sessionPracticum.form.button.create = Crear
+company.sessionPracticum.form.button.update = Actualizar
+company.sessionPracticum.form.button.delete = Borrar
+company.sessionPracticum.form.button.createAddendum = Crear Addendum
+company.sessionPracticum.form.button.confirmation = Confirmar
+company.sessionPracticum.form.error.endAfterStart = La fecha inicial debe ser antes de la final
+company.sessionPracticum.form.error.oneWeekAhead = La fecha inicial debe ser al menos una semana antes que la actual
+company.sessionPracticum.form.error.confirmation = Debe confirmar la creacion del addendum
+company.sessionPracticum.form.error.oneWeekLong = El periodo debe durar al menos una semana

@@ -1,0 +1,16 @@
+company.dashboard.title = Company dashboard
+
+company.dashboard.practicum = Practicum
+
+company.dashboard.label.statisticsTimePracticum.average = Average time practicum
+company.dashboard.label.statisticsTimePracticum.minimum = Minimum time practicum
+company.dashboard.label.statisticsTimePracticum.maximum = Maximum time practicum
+company.dashboard.label.statisticsTimePracticum.deviation = Desviation time practicum
+company.dashboard.label.statisticsTimeSession.average = Average time session
+company.dashboard.label.statisticsTimeSession.maximum = Maximum time session
+company.dashboard.label.statisticsTimeSession.minimum = Minimum time session
+company.dashboard.label.statisticsTimeSession.deviation = Desviation time session
+
+company.dashboard.form.title.practicaNumberPerMonth = Number practicum per month
+
+company.dashboard.sessions = Sessions
